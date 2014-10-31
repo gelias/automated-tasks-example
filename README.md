@@ -1,6 +1,8 @@
 # automated-tasks-example
 =======================
 
+[ ![Codeship Status for gelias/ant_manipulate_xml_task](https://www.codeship.io/projects/06b0d8a0-f28e-0131-9281-66e36f054ecd/status)](https://www.codeship.io/projects/27716)
+
 A simple example project to demonstrate some techniques build automation, deployment and testing. 
 
 ## Running Jenkins
